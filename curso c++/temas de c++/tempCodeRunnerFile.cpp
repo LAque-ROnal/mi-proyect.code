@@ -1,2 +1,0 @@
-inamicamente*/
-#include <iostream>
