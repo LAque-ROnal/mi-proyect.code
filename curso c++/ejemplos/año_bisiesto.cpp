@@ -17,7 +17,7 @@ int main (){
             if ((m%2!=0 && m>0 && m<8)||(m>= 8 && m%2==0)){
               cout << "el mes tiene 31 dias";
 
-            }else{
+            }else{ 
              cout << "el mes tiene 30 dias ";
             }
     }
@@ -27,4 +27,5 @@ int main (){
     }
 
     return 0;
+    cout <<perra;
 }
